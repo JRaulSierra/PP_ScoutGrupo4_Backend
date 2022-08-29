@@ -1,0 +1,19 @@
+{
+  "name": "pp_scoutgrupo4_backend",
+  "version": "1.0.0",
+  "description": "Proyecto de backend para el grupo scout 4 Guatemala",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRaulSierra/PP_ScoutGrupo4_Backend.git"
+  },
+  "author": "Raul Sierra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRaulSierra/PP_ScoutGrupo4_Backend/issues"
+  },
+  "homepage": "https://github.com/JRaulSierra/PP_ScoutGrupo4_Backend#readme"
+}
